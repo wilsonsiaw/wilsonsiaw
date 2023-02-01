@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilsonsiaw
-- 👀 I’m interested in ...Data Science and Analytics and how they can be applied to Finance and Investing, Health Care and Sports.
-- 🌱 I’m currently learning ...the IBM Data Science Professional Certificate on Coursera
-- 💞️ I’m looking to collaborate with ...anyone who is a beginner in Data Science like myself.
+- 👀 I’m interested in ...Software Engineering.
+- 🌱 I’m currently learning ...with ALX/Holberton to become a fully qualified and competent full-stack Software Engineer
+- 💞️ I’m looking to collaborate with ...anyone. I want to learn as much as possible.
 - 📫 How to reach me ...siawwils90@gmail.com
 
 <!---
