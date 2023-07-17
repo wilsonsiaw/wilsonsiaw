@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilsonsiaw
 - 👀 I’m interested in ...Software Development.
-- 🌱 I’m currently learning ...Full Stack Development with Coursera and Front-Edn Development with Azubi Africa
+- 🌱 I’m currently learning ...Full Stack Development with Coursera and Front-End Development with Azubi Africa
 - I can be reached at wilsonsiawse@gmail.com
 
 <!---
