@@ -36,8 +36,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsiaw&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2>Featured Projects</h2>
 
-
-
-
-
+<h3>Admin Dashboard</h3>
+<p>
+  In this project, I created an admin dashboard using HTML and CSS. The layout for the dashboard was accomplished using CSS Grid.
+</p>
+The GitHub readme file for the project can be found [here](https://github.com/wilsonsiaw/admin-dashboard)
