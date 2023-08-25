@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @wilsonsiaw
-- 👀 I’m interested in ...Software Development.
-- 🌱 I’m currently learning ...Full Stack Development with Coursera and Front-End Development with Azubi Africa
-- I can be reached at wilsonsiawse@gmail.com
+<div id="header" align="center" width=100%>
+  <img src="wallpaperflare.com_wallpaper.jpg">
+</div>
 
-<!---
-wilsonsiaw/wilsonsiaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Welcome to my GitHub Portfolio</h1>
