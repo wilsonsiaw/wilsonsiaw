@@ -42,4 +42,5 @@
 <p>
   In this project, I created an admin dashboard using HTML and CSS. The layout for the dashboard was accomplished using CSS Grid.
 </p>
-The GitHub readme file for the project can be found [here](https://github.com/wilsonsiaw/admin-dashboard)
+
+The GitHub readme file for the project can be found [here](https://github.com/wilsonsiaw/admin-dashboard). The live version of the project is also available [here](https://wilsonsiaw.github.io/admin-dashboard/)
