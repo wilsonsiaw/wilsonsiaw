@@ -43,4 +43,21 @@
   In this project, I created an admin dashboard using HTML and CSS. The layout for the dashboard was accomplished using CSS Grid.
 </p>
 
-The GitHub readme file for the project can be found [here](https://github.com/wilsonsiaw/admin-dashboard). The live version of the project is also available [here](https://wilsonsiaw.github.io/admin-dashboard/)
+The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/admin-dashboard). The live version of the project is also available [here](https://wilsonsiaw.github.io/admin-dashboard/).
+
+<h3>Rock Paper Scissors</h3>
+<p>
+  In this project, I built a basic rock-paper-scissors game. The application was built using HTML, CSS, and JavaScript.
+</p>
+
+The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/Project-Portfolio/tree/main/rock-paper-scissors). The live version of the application is
+available [here](https://wilsonsiaw.github.io/Project-Portfolio/rock-paper-scissors/).
+
+<h3>Sign-up Form</h3>
+<p>
+  In this project, I built a sign-up form using HTML form elements and CSS. 
+</p>
+
+The GitHub readme for this project can be found [here](https://github.com/wilsonsiaw/sign-up-form). The live implementation of the project is available [here](https://wilsonsiaw.github.io/sign-up-form/).
+
+
