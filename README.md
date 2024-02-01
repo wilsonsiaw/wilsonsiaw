@@ -56,12 +56,13 @@ The GitHub readme for the project can be found [here](https://github.com/wilsons
 The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/github_user_search_app). The live version of the application is
 available [here](https://github-user-search-app-ten-pearl.vercel.app/).
 
-<h4>Animated Clock</h4>
+<h4>To-do Application</h4>
 <p>
-  In this, project I built a live animated clock using HTML, CSS, and JavaScript. The clock has hour and minute hands that move and tell the time.
+  In this project, I built a to-do application that helps users track their daily activities or tasks. It allows users to add new tasks to a task list. Remove tasks and also mark tasks as   
+  completed. 
 </p>
 
-The GitHub readme for this project can be found [here](https://github.com/wilsonsiaw/animated_clock). The live implementation of the project is available [here](https://wilsonsiaw.github.io/sign-up-form/).
+The GitHub readme for this project can be found [here](https://github.com/wilsonsiaw/ToDo-Application). The live implementation of the project is available [here](https://todo-application-iota-topaz.vercel.app/).
 
 
 <h2>Social Media</h2>
