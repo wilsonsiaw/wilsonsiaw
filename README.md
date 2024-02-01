@@ -42,25 +42,26 @@
 <h4>Countries Application</h4>
 <p>
   In this project, I developed a React application that connects to an external API and renders the information of over 200 countries. The application also features
-  a light and dark mode theme and allows you you view a detailed page of a specific country.
+  a light and dark mode theme and lets you view a detailed page of a specific country.
 </p>
 
 The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/countries_application). The live version of the project is also available [here](https://countries-application-one.vercel.app/).
 
-<h4>Rock Paper Scissors</h4>
+<h4>GitHub User Search App</h4>
 <p>
-  In this project, I built a basic rock-paper-scissors game. The application was built using HTML, CSS, and JavaScript.
+  In this project, I built an application that uses the GitHub API to return the information of different users of GitHub. The application was built using React and can render
+  specific user information. It also features a light and dark mode.
 </p>
 
-The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/Project-Portfolio/tree/main/rock-paper-scissors). The live version of the application is
-available [here](https://wilsonsiaw.github.io/Project-Portfolio/rock-paper-scissors/).
+The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/github_user_search_app). The live version of the application is
+available [here](https://github-user-search-app-ten-pearl.vercel.app/).
 
-<h4>Sign-up Form</h4>
+<h4>Animated Clock</h4>
 <p>
-  In this project, I built a sign-up form using HTML form elements and CSS. 
+  In this, project I built a live animated clock using HTML, CSS, and JavaScript. The clock has hour and minute hands that move and tell the time.
 </p>
 
-The GitHub readme for this project can be found [here](https://github.com/wilsonsiaw/sign-up-form). The live implementation of the project is available [here](https://wilsonsiaw.github.io/sign-up-form/).
+The GitHub readme for this project can be found [here](https://github.com/wilsonsiaw/animated_clock). The live implementation of the project is available [here](https://wilsonsiaw.github.io/sign-up-form/).
 
 
 <h2>Social Media</h2>
