@@ -16,7 +16,7 @@
 </p>
 
 <h2>Technologies and Tools</h2>
-<h4>HTML, CSS and JavaScript</h4>
+<h4>HTML, CSS, JavaScript, and React</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40 height=40>
@@ -39,12 +39,13 @@
 
 <h2>Featured Projects</h2>
 
-<h4>Admin Dashboard</h4>
+<h4>Countries Application</h4>
 <p>
-  In this project, I created an admin dashboard using HTML and CSS. The layout for the dashboard was accomplished using CSS Grid.
+  In this project, I developed a React application that connects to an external API and renders the information of over 200 countries. The application also features
+  a light and dark mode theme and allows you you view a detailed page of a specific country.
 </p>
 
-The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/admin-dashboard). The live version of the project is also available [here](https://wilsonsiaw.github.io/admin-dashboard/).
+The GitHub readme for the project can be found [here](https://github.com/wilsonsiaw/countries_application). The live version of the project is also available [here](https://countries-application-one.vercel.app/).
 
 <h4>Rock Paper Scissors</h4>
 <p>
