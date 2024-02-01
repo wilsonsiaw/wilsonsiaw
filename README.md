@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 <p>
   I am Wilson Siaw but people call me Wilson. I am training to become a <strong>front-end developer</strong> with Azubi Africa. I am also training to be
-  a <strong>full-stack developer</strong> with Full Stack Open. I enjoy all things tech and am happiest when sitting in front of my
+  a <strong>full-stack developer</strong> with The Odin Project. I enjoy all things tech and am happiest when sitting in front of my
   computer solving problems and writing code.
 </p>
 <p>
@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
 </div>
 <h4>Git, GitHub, Figma and VSCode</h4>
 <div>
